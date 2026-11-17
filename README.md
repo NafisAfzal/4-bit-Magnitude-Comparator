@@ -159,6 +159,21 @@ schematic (no gate-level netlist exists) and are not physical-hardware testing. 
 The project was completed jointly by all four members. The original report records no finer
 breakdown of individual responsibilities.
 
+## Project Attribution & Repository Enhancement
+
+Repository enhancement, documentation organization, visual presentation, and publication
+maintenance by Nafis Afzal.
+
+| | |
+|---|---|
+| Original academic project | Collaborative work by Group 7: Nafis Afzal, Anik Saha, Ashiqur Rahman Sohan and Raiyan Fardin Haque. |
+| Scope of enhancement | README redesign, documentation organization, visual asset presentation, repository structure improvements and publication maintenance. |
+
+The enhancement does not change the ownership or attribution of the original academic work. The
+comparator design, simulations, hardware implementation and original report remain the collaborative
+work of the listed team members. See
+[Maintenance and Attribution](docs/MAINTENANCE_AND_ATTRIBUTION.md).
+
 ## Documentation
 
 - [Project Overview](docs/PROJECT_OVERVIEW.md)
@@ -167,6 +182,8 @@ breakdown of individual responsibilities.
 - [Hardware Implementation](docs/HARDWARE_IMPLEMENTATION.md)
 - [Testing and Results](docs/TESTING_AND_RESULTS.md)
 - [Asset Index — visual gallery](docs/ASSET_INDEX.md)
+- [Maintenance and Attribution](docs/MAINTENANCE_AND_ATTRIBUTION.md)
+- [Licensing and Usage](docs/LICENSING_AND_USAGE.md)
 
 ## Reports
 
@@ -181,4 +198,5 @@ repository distribution; its technical content is unchanged. The revised PDF is 
 ## Licensing
 
 Collaborative academic coursework. No open-source licence has been granted; the contents are
-provided for academic review and reference only.
+provided for academic review and reference only. See [Licensing and Usage](docs/LICENSING_AND_USAGE.md)
+for the verified facts and outstanding permission questions.
