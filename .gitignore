@@ -1,0 +1,20 @@
+# Simulator build output
+build/
+*.vvp
+*.vcd
+*.fst
+
+# Archives and document working files
+*.zip
+~$*
+*.docx#
+*.wbk
+
+# OS and editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
